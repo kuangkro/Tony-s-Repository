@@ -1,0 +1,18 @@
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Application.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Application.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Domain.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Infrastructure.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Domain.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Infrastructure.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\obj\Debug\FamilyFinancial.Application.csprojResolveAssemblyReference.cache
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\obj\Debug\FamilyFinancial.Application.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Application\obj\Debug\FamilyFinancial.Application.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Application.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Application.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Domain.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Infrastructure.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Domain.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\bin\Debug\FamilyFinancial.Infrastructure.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\obj\Debug\FamilyFinancial.Application.csprojResolveAssemblyReference.cache
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\obj\Debug\FamilyFinancial.Application.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Application\obj\Debug\FamilyFinancial.Application.pdb

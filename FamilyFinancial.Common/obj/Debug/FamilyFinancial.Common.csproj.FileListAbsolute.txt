@@ -1,0 +1,22 @@
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\FamilyFinancial.Common.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\FamilyFinancial.Common.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\obj\Debug\FamilyFinancial.Common.csprojResolveAssemblyReference.cache
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\obj\Debug\FamilyFinancial.Common.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\obj\Debug\FamilyFinancial.Common.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.xml
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\FamilyFinancial.Common.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\FamilyFinancial.Common.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.xml
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\obj\Debug\FamilyFinancial.Common.csprojResolveAssemblyReference.cache
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\obj\Debug\FamilyFinancial.Common.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Common\obj\Debug\FamilyFinancial.Common.pdb

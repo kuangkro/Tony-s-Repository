@@ -1,0 +1,10 @@
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.DataContract\bin\Debug\FamilyFinancial.DataContract.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.DataContract\bin\Debug\FamilyFinancial.DataContract.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.DataContract\obj\Debug\FamilyFinancial.DataContract.csprojResolveAssemblyReference.cache
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.DataContract\obj\Debug\FamilyFinancial.DataContract.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.DataContract\obj\Debug\FamilyFinancial.DataContract.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.DataContract\bin\Debug\FamilyFinancial.DataContract.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.DataContract\bin\Debug\FamilyFinancial.DataContract.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.DataContract\obj\Debug\FamilyFinancial.DataContract.csprojResolveAssemblyReference.cache
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.DataContract\obj\Debug\FamilyFinancial.DataContract.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.DataContract\obj\Debug\FamilyFinancial.DataContract.pdb

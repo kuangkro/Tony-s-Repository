@@ -1,0 +1,10 @@
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Dependency\bin\Debug\FamilyFinancial.Dependency.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Dependency\bin\Debug\FamilyFinancial.Dependency.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Dependency\obj\Debug\FamilyFinancial.Dependency.csprojResolveAssemblyReference.cache
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Dependency\obj\Debug\FamilyFinancial.Dependency.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Dependency\obj\Debug\FamilyFinancial.Dependency.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Dependency\bin\Debug\FamilyFinancial.Dependency.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Dependency\bin\Debug\FamilyFinancial.Dependency.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Dependency\obj\Debug\FamilyFinancial.Dependency.csprojResolveAssemblyReference.cache
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Dependency\obj\Debug\FamilyFinancial.Dependency.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Dependency\obj\Debug\FamilyFinancial.Dependency.pdb

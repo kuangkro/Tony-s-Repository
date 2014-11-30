@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{861EDA4C-991E-4FF2-BF2F-4883209957B1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FamilyFinancial.Infrastructure.Repository</RootNamespace>
+    <AssemblyName>FamilyFinancial.Infrastructure.Repository</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IEntityMapper.cs" />
+    <Compile Include="Implement\AccountRepository.cs" />
+    <Compile Include="Implement\CostTypeRepository.cs" />
+    <Compile Include="Implement\EntiryframeworkRepository.cs" />
+    <Compile Include="Implement\EntityframeworkContext.cs" />
+    <Compile Include="Implement\ExpandRepository.cs" />
+    <Compile Include="Implement\MemberRepository.cs" />
+    <Compile Include="Implement\MonthIncomeRepository.cs" />
+    <Compile Include="Interface\IEntityframeworkContext.cs" />
+    <Compile Include="Mapper\AccountMapper.cs" />
+    <Compile Include="Mapper\ChangeTrackingMapper.cs" />
+    <Compile Include="Mapper\ContactMapper.cs" />
+    <Compile Include="Mapper\CostTypeMapper.cs" />
+    <Compile Include="Mapper\MemberMapper.cs" />
+    <Compile Include="FamilyFinancialContext.cs" />
+    <Compile Include="Mapper\ExpandtMapper.cs" />
+    <Compile Include="Mapper\MonthIncomeMapper.cs" />
+    <Compile Include="Mapper\IncomeItemMapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FamilyFinancial.Common\FamilyFinancial.Common.csproj">
+      <Project>{2cbf48ab-b5d4-4f68-b088-f4d44cca23d4}</Project>
+      <Name>FamilyFinancial.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FamilyFinancial.Domain\FamilyFinancial.Domain.csproj">
+      <Project>{28354abc-84d7-4549-af58-723d834a2b3e}</Project>
+      <Name>FamilyFinancial.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FamilyFinancial.Infrastructure\FamilyFinancial.Infrastructure.csproj">
+      <Project>{8e1f284b-f249-4b49-80d1-b26da3e8209a}</Project>
+      <Name>FamilyFinancial.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Domain.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Domain.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Infrastructure.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Infrastructure.pdb
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\obj\Debug\FamilyFinancial.Domain.csprojResolveAssemblyReference.cache
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\obj\Debug\FamilyFinancial.Domain.dll
+D:\My Project\个人项目\FamilyFinancial\FamilyFinancial.Domain\obj\Debug\FamilyFinancial.Domain.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Domain.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Domain.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Infrastructure.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\bin\Debug\FamilyFinancial.Infrastructure.pdb
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\obj\Debug\FamilyFinancial.Domain.csprojResolveAssemblyReference.cache
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\obj\Debug\FamilyFinancial.Domain.dll
+D:\My Project\360Cloud\Project Code\FamilyFinancial\FamilyFinancial.Domain\obj\Debug\FamilyFinancial.Domain.pdb
