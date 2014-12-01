@@ -8,5 +8,6 @@ namespace FamilyFinancial.Domain.Test
 {
     public class Class1
     {
+	//add some comments
     }
 }
