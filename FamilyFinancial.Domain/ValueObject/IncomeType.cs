@@ -9,6 +9,10 @@ namespace FamilyFinancial.Domain.ValueObject
     public enum IncomeType
     {
         Salary = 1,
-        Other = 2
+	
+        Other = 2,
+
+	Preminum = 3
+
     }
 }
